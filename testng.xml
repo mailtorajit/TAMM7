@@ -3,7 +3,8 @@
 	<test name="Flights" preserve-order="true">
 		<classes>
 			<class name="com.selenium.module7.tests.FindFlightsUsingFactoryPattern"/>
-			<class name="com.selenium.module7.tests.FindFlightsUsingSingltonPatternTest"/>			
+			<class name="com.selenium.module7.tests.FindFlightsUsingSingltonPatternTest"/>
+			<class name="com.selenium.module7.tests.ScreenshotTest"/>			
 		</classes>
 	</test>
 </suite>
