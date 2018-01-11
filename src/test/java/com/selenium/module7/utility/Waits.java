@@ -1,4 +1,4 @@
-package com.selenium.module64.utility;
+package com.selenium.module7.utility;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
